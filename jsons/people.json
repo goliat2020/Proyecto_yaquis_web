@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Juan Calixto Ayamea",
+        "image": "",
+        "years": "1705? - 1743?",
+        "description": "Considerado el primer caudillo Yaqui, fue jefe de Cócorit, negociador, intermediario y líder rebelde de los Yaquis y Pimas Bajos contra los españoles. Intentó y formuló solicitudes de acuerdos pacifistas en cartas escritas en un refinado castellano.",
+        "link": "https://es.wikipedia.org/wiki/Juan_Calixto"
+    },
+    {
+        "name": "Juan Banderas \"El Yaqui\"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Uprising_of_Yaqui_Indians_Remington_1896.jpg/250px-Uprising_of_Yaqui_Indians_Remington_1896.jpg",
+        "years": "? - 1833",
+        "description": "2do caudillo Yaqui, acaudilló el primero de los levantamientos en las guerras de los Yaquis en contra del recien creado estado Mexicano",
+        "link": "https://es.wikipedia.org/wiki/Juan_Banderas"
+    },
+    {
+        "name": "José María Leyva Pérez \"Cajeme\"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cajem%C3%A9.jpg/250px-Cajem%C3%A9.jpg",
+        "years": "1835-1887",
+        "description": "Fue el 3er caudillo Yaqui, defensor y lider de su tribu. Intentó independizar la tribu Yaqui lo cual lo llevo a pelear con el Ejército Mexicano",
+        "link": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Leyva_(Cajeme)"
+
+    },
+    {
+        "name": "Juan Maldonado Waswechia Beltrán \"Tetabiate\"",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tetabiate.jpg/250px-Tetabiate.jpg",
+        "years": "1857-1901",
+        "description": "Sucesor directo de Cajeme despues de que este fue asesinado, fue el 4to caudillo Yaqui y sostuvo la resistencia Yaqui en contra de las autoridades mexicanas para defender sus tierras, mantener sus costumbres y libertad.",
+        "link": "https://es.wikipedia.org/wiki/Juan_Maldonado_Waswechia"
+    },
+    {
+        "name": "Juan María Sibalaume o Felipe Sierra \"El Inndómito\"",
+        "image": "",
+        "years": "?-1918",
+        "description": "5to caudillo Yaqui, militar y líder de su etnia, que se reveló contra el gobierno en defensa de la autodeterminación del pueblo Yaqui desde el gobierno Porfirista, Madero, Huerta y asesinado por las fuerzas revolucionarias durante la presidencia de Venustiano Carranza.",
+        "link": "https://es.wikipedia.org/wiki/Juan_Mar%C3%ADa_Sibalaume"
+    }
+]
