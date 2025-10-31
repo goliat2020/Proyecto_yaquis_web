@@ -1,7 +1,7 @@
 [
     {
         "name": "Juan Calixto Ayamea",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/goliat2020/Proyecto_yaquis_web/main/sin_foto.png",
         "years": "1705? - 1743?",
         "description": "Considerado el primer caudillo Yaqui, fue jefe de Cócorit, negociador, intermediario y líder rebelde de los Yaquis y Pimas Bajos contra los españoles. Intentó y formuló solicitudes de acuerdos pacifistas en cartas escritas en un refinado castellano.",
         "link": "https://es.wikipedia.org/wiki/Juan_Calixto"
@@ -30,7 +30,7 @@
     },
     {
         "name": "Juan María Sibalaume o Felipe Sierra \"El Inndómito\"",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/goliat2020/Proyecto_yaquis_web/main/sin_foto.png",
         "years": "?-1918",
         "description": "5to caudillo Yaqui, militar y líder de su etnia, que se reveló contra el gobierno en defensa de la autodeterminación del pueblo Yaqui desde el gobierno Porfirista, Madero, Huerta y asesinado por las fuerzas revolucionarias durante la presidencia de Venustiano Carranza.",
         "link": "https://es.wikipedia.org/wiki/Juan_Mar%C3%ADa_Sibalaume"
